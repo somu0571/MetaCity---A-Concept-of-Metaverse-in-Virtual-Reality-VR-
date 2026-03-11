@@ -1,6 +1,6 @@
 # Metacity – Smart Metaverse City
 
-Metacity is an interactive **metaverse-based smart city simulation** built using **Unity, Blender, and C#**. The project creates an immersive 3D virtual environment where users can explore a digitally designed city with realistic infrastructure and dynamic environmental elements.
+Metacity is an interactive **metaverse-based smart city simulation** built using **Unity, SketchFab, and C#**. The project creates an immersive 3D virtual environment where users can explore a digitally designed city with realistic infrastructure and dynamic environmental elements.
 
 The objective of Metacity is to demonstrate how **metaverse environments can visualize urban spaces and smart city concepts** through interactive exploration. The city includes animated components and environmental effects that make the virtual world feel more alive and engaging.
 

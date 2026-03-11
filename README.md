@@ -18,8 +18,12 @@ The objective of Metacity is to demonstrate how **metaverse environments can vis
 ## Tech Stack
 
 * **Unity** – Game engine used to build the virtual environment
-* **Blender** – 3D modeling and asset creation
+* **SketchFab** – 3D models & Assests
 * **C#** – Scripting for interactions, animations, and navigation
+
+## Achievement
+
+🏆 **First Prize Winner** in  **AR/VR Workshop Organised by Sharda University**, where the project was recognized for its creative use of **metaverse technology, interactive design, and realistic virtual city environment**.
 
 ## Future Scope
 
@@ -34,4 +38,5 @@ Copyright © 2026 Somsubhra Chatterjee
 All Rights Reserved.
 
 This project is shared for educational and demonstration purposes only. Unauthorized copying, modification, or redistribution of this project or its source code is prohibited without explicit permission from the author.
+
 
